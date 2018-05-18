@@ -1,4 +1,4 @@
-source $HOME/antigen.zsh
+source /usr/share/zsh-antigen/antigen.zsh
 antigen use oh-my-zsh
 antigen bundle <<EOBUNDLES
     # Bundles from the default repo (robbyrussell's oh-my-zsh)
